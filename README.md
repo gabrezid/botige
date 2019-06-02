@@ -10,8 +10,8 @@ And this is collection of several developments that have been carried out so far
 ### Installation
 
 ```
-$ git clone https://github.com/gabrezid/botige
-$ cd instagram-tools
+$ git clone https://github.com/gabrezid/botige.git
+$ cd botige
 $ node index.js
 ```
 
