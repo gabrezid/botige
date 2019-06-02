@@ -1,7 +1,7 @@
 # ![Image](Instagram2016_white-(64px).png) Node.JS Instagram Tools
 
 
-Original author of this project is man who say himself as "YAHYA".
+Original author of this project is man who say himself as "YADIMA".
 He deleted his own repository, then several members of GABREZ are taking care of development and new features.
 And this is collection of several developments that have been carried out so far.
 
